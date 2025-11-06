@@ -18,6 +18,6 @@ I also applied MobileNetV2 as my second model.
 
 The graphs of loss as well as accuracy for both of these models can be found in the colab ipynb file attached.
 
-#The dataset link
+# The dataset link
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
