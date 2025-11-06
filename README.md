@@ -1,4 +1,6 @@
 # PLANT-DISEASE
+# Contents of this github
+I have uploaded the ipynb file as well as a print and a pdf version of the ipynb file as well. In this read me document my goal is to explain as much about the project as i can.
 # Why did i take this problem statement
 This is my project for ML CA Submission. The source of the dataset is from kaggle. The dataset has like more than 3 lakh images distributed across 38 classes. Where the classes are as follows: apple healthy, apple diseasesd, pine healthy, pine diseased. Here i have tried to classify the Plant leaf as healthy or diseased for across 38 different species. Plant disease is a big concern because many plant diseases go undetected and they end up dying. Furthermore plant diseases can transfer from one plant to another plant. This is aimed so that timely detection of tree diseases can be donen and thus the plants can be saved!
 
